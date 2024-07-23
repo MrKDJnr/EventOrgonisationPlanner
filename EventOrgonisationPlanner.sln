@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventOrgonisationPlanner", "EventOrgonisationPlanner.csproj", "{22E8B4AE-5230-48D3-A540-379E3154BD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E8B4AE-5230-48D3-A540-379E3154BD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E8B4AE-5230-48D3-A540-379E3154BD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E8B4AE-5230-48D3-A540-379E3154BD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E8B4AE-5230-48D3-A540-379E3154BD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D679C3-2054-49E8-B280-8A4ACD941191}
+	EndGlobalSection
+EndGlobal
